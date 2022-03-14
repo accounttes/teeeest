@@ -1,0 +1,294 @@
+{
+  "sortedCards-0": [
+    {
+      "id": "0",
+      "name": "Студия, 28 м²",
+      "housingComplexName": "ЖК Утесов ",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 12,
+      "minPrice": 34
+    },
+    {
+      "id": "1",
+      "name": "Студия, 56 м²",
+      "housingComplexName": "ЖК Ёлки-Park",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 12,
+      "minPrice": 2
+    },
+    {
+      "id": "2",
+      "name": "Студия, 89 м²",
+      "housingComplexName": "ЖК Сердце столицы",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 12,
+      "minPrice": 23
+    },
+    {
+      "id": "3",
+      "name": "Студия, 29 м²",
+      "housingComplexName": "ЖК Ёлки-Park",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 12,
+      "minPrice": 89
+    },
+    {
+      "id": "4",
+      "name": "Студия, 25 м²",
+      "housingComplexName": "ЖК Ривер Парк ",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 12,
+      "minPrice": 45
+    },
+    {
+      "id": "5",
+      "name": "Студия, 32 м²",
+      "housingComplexName": "ЖК Ёлки-Park",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 12,
+      "minPrice": 50
+    },
+    {
+      "id": "6",
+      "name": "Студия, 32 м²",
+      "housingComplexName": "ЖК Виноградный",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 12,
+      "minPrice": 52
+    },
+    {
+      "id": "7",
+      "name": "Студия, 102 м²",
+      "housingComplexName": "ЖК Ёлки-Park",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 11,
+      "minPrice": 27
+    },
+    {
+      "id": "8",
+      "name": "Студия, 82 м²",
+      "housingComplexName": "ЖК Мосфильмовский",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 10,
+      "minPrice": 13
+    },
+    {
+      "id": "9",
+      "name": "Студия, 34 м²",
+      "housingComplexName": "ЖК Ёлки-Park",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 12,
+      "minPrice": 9.5
+    },
+    {
+      "id": "10",
+      "name": "Студия, 67 м²",
+      "housingComplexName": "ЖК Царицыно-2",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 12,
+      "minPrice": 28
+    },
+    {
+      "id": "11",
+      "name": "Студия, 34 м²",
+      "housingComplexName": "ЖК Ёлки-Park",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 12,
+      "minPrice": 76
+    },
+    {
+      "id": "12",
+      "name": "Студия, 16 м²",
+      "housingComplexName": "ЖК Эталон-Сити",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 12,
+      "minPrice": 54
+    },
+    {
+      "id": "13",
+      "name": "Студия, 30 м²",
+      "housingComplexName": "ЖК Ёлки-Park",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 12,
+      "minPrice": 68
+    },
+    {
+      "id": "14",
+      "name": "Студия, 45 м²",
+      "housingComplexName": "ЖК Ёлки-Park",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 12,
+      "minPrice": 23
+    }
+  ],
+  "sortedCards-1": [
+    {
+      "id": "0",
+      "name": "Студия, 28 м²",
+      "housingComplexName": "ЖК Утесов ",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 12,
+      "minPrice": 3.5
+    },
+    {
+      "id": "1",
+      "name": "Студия, 56 м²",
+      "housingComplexName": "ЖК Ёлки-Park",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 12,
+      "minPrice": 3.5
+    }
+  ],
+  "sortedCards-2": [
+    {
+      "id": "2",
+      "name": "Студия, 89 м²",
+      "housingComplexName": "ЖК Сердце столицы",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 12,
+      "minPrice": 3.5
+    },
+    {
+      "id": "3",
+      "name": "Студия, 29 м²",
+      "housingComplexName": "ЖК Ёлки-Park",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 12,
+      "minPrice": 3.5
+    }
+  ],
+  "sortedCards-3": [
+    {
+      "id": "4",
+      "name": "Студия, 25 м²",
+      "housingComplexName": "ЖК Ривер Парк ",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 12,
+      "minPrice": 3.5
+    }
+  ],
+  "sortedCards-4": [
+    {
+      "id": "5",
+      "name": "Студия, 32 м²",
+      "housingComplexName": "ЖК Ёлки-Park",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 12,
+      "minPrice": 3.5
+    }
+  ],
+  "sortedCards-5": [
+    {
+      "id": "6",
+      "name": "Студия, 32 м²",
+      "housingComplexName": "ЖК Виноградный",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 12,
+      "minPrice": 3.5
+    }
+  ],
+  "sortedCards-6": [
+    {
+      "id": "7",
+      "name": "Студия, 102 м²",
+      "housingComplexName": "ЖК Ёлки-Park",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 11,
+      "minPrice": 3.5
+    },
+    {
+      "id": "8",
+      "name": "Студия, 82 м²",
+      "housingComplexName": "ЖК Мосфильмовский",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 10,
+      "minPrice": 3.5
+    }
+  ],
+  "sortedCards-7": [
+    {
+      "id": "9",
+      "name": "Студия, 34 м²",
+      "housingComplexName": "ЖК Ёлки-Park",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 12,
+      "minPrice": 9
+    },
+    {
+      "id": "10",
+      "name": "Студия, 67 м²",
+      "housingComplexName": "ЖК Царицыно-2",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 12,
+      "minPrice": 8
+    }
+  ],
+  "sortedCards-8": [
+    {
+      "id": "11",
+      "name": "Студия, 34 м²",
+      "housingComplexName": "ЖК Ёлки-Park",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 12,
+      "minPrice": 2
+    }
+  ],
+  "sortedCards-9": [
+    {
+      "id": "12",
+      "name": "Студия, 16 м²",
+      "housingComplexName": "ЖК Эталон-Сити",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 12,
+      "minPrice": 4.5
+    },
+    {
+      "id": "13",
+      "name": "Студия, 30 м²",
+      "housingComplexName": "ЖК Ёлки-Park",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 12,
+      "minPrice": 6
+    }
+  ],
+  "sortedCards-10": [
+    {
+      "id": "14",
+      "name": "Студия, 45 м²",
+      "housingComplexName": "ЖК Ёлки-Park",
+      "planLink": "http://localhost:3001/cards",
+      "photos": ["/images/schemes/schema.png", "/images/schemes/schema-2.png"],
+      "sameLayoutFlatCount": 12,
+      "minPrice": 5
+    }
+  ]
+}
